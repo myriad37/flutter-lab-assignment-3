@@ -1,4 +1,4 @@
-# album_app_mvvm_bloc
+# album_app
 
 A new Flutter project.
 
